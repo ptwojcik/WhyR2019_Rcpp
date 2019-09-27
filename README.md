@@ -1,5 +1,6 @@
-# WhyR2019_Rcpp
-Materials for the workshop "Speeding up R wih C++ (Rcpp) - from basics to more advanced applications" on WhyR?2019 conference
+# Speeding up R wih C++ (Rcpp) - from basics to more advanced applications
+
+Materials for my workshop "Speeding up R wih C++ (Rcpp) - from basics to more advanced applications" on [WhyR?2019 conference](http://whyr.pl/2019/)
 
 ## Table of contents
 
