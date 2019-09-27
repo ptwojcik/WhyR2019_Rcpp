@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------#
-#                      Speeding up R wih C++ (Rcpp)                     #
+#                     Speeding up R with C++ (Rcpp)                     #
 #             from the basics to more advanced applications             #
 #                                                                       #
 #                        WhyR? 2019 conference                          #
